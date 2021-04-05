@@ -1,9 +1,9 @@
 /**
  * PS1260
  */
+
 import java.util.*;
 
-import jdk.javadoc.internal.tool.resources.version;
 
 public class PS1260 {
     static int[][] chk; // 간선 연결상태
